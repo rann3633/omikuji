@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- 背景の円 -->
+  <circle cx="256" cy="256" r="240" fill="#f5f5f5" stroke="#333" stroke-width="16"/>
+  
+  <!-- おみくじの筒 -->
+  <rect x="176" y="96" width="160" height="280" rx="20" fill="#8b4513"/>
+  <rect x="186" y="106" width="140" height="260" rx="15" fill="#d2691e"/>
+  
+  <!-- おみくじ用紙 -->
+  <rect x="216" y="76" width="80" height="200" fill="#fff" stroke="#333" stroke-width="4"/>
+  
+  <!-- 文字線 -->
+  <line x1="236" y1="126" x2="276" y2="126" stroke="#333" stroke-width="4"/>
+  <line x1="236" y1="146" x2="276" y2="146" stroke="#333" stroke-width="4"/>
+  <line x1="236" y1="166" x2="276" y2="166" stroke="#333" stroke-width="4"/>
+  
+  <!-- リボン -->
+  <path d="M216 176 Q256 190 296 176" fill="none" stroke="#ff0000" stroke-width="6"/>
+</svg>
